@@ -1,1 +1,10 @@
 # Created by .ignore support plugin (hsz.mobi)
+.gradle/
+.idea/
+build/
+/build/
+/.idea/
+/.gradle/
+/dagger2-hello-world.ipr
+/dagger2-hello-world.iml
+/dagger2-hello-world.iws
